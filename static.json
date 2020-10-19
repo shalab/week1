@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "shamarin"
+      "X-Author": "shamarin",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
